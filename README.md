@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/@RanaSar53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ranasar53" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ranasarkar53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranasarkar53" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rana_s_ee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranasarkar53" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@rana_sarkarg3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rana_sarkarg3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iamranasarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamranasarkar" height="30" width="40" /></a>
 </p>
