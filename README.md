@@ -2,6 +2,7 @@
 <h3 align="center">A passionate MERN stack developer from Agartala, India</h3>
 
 - 🌱 I’m currently learning **React**
+- I Love to solve **DSA**
 <br />
 
 <h3 align="left">Connect with me:</h3>
