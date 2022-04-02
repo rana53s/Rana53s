@@ -3,8 +3,9 @@
 
 - 🌱 I’m currently learning **React**
 - I Love to solve **DSA**
+- Looking for collaboration in **Open Source** projects
 <hr>
-<h2 align="center" border="0" dir="auto"><a id="user-content-my-tech-stack" class="anchor" aria-hidden="true" href="#my-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd"></path></svg></a>My Tech Stack</h2>
+<h2 align="center" border="0" dir="auto"><a id="user-content-my-tech-stack" class="anchor" aria-hidden="true" href="#my-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd"></path></svg></a>My Tech Stacks</h2>
 
 
 <table align="center">
