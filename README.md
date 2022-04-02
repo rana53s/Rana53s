@@ -26,28 +26,24 @@
      <p dir="auto"><span>𝗥𝗲𝗮𝗰𝘁</span><br><br></p>
     <img height="64px" src="https://camo.githubusercontent.com/258e4f46e082ec3dcfa3c4a90970a3d69d992c78c977ba7e0dd47b100a66f6f2/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f72656163742e737667"  style="max-width: 100%;"></a>
      </td>
-
      </tr>
      <tr valign="top">
      <td width="25%" align="center">
-     <p dir="auto"><span>𝗥𝗲𝗱𝘂𝘅</span><br><br></p>
-    <img height="64px" src="https://camo.githubusercontent.com/321d4616110f60a3b946fc6c562e6b9d98a6c93d2bb0ef78fb2a85c5c6b6e009/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f72656475782e737667"  style="max-width: 100%;"></a>
+     <p dir="auto"><span>NodeJS</span><br><br></p>
+   <img height="64px" src="https://camo.githubusercontent.com/7c3ca10871ab6f7260f6e6b58e9e930fbdd5ffac3a09cc9d520c630a1fe41ec8/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e6f64656a732e737667"  style="max-width: 100%;"></a>
      </td>
      <td width="25%" align="center">
-     <p dir="auto"><span>NodeJS</span><br><br></p>
-
-<img height="64px" src="https://camo.githubusercontent.com/7c3ca10871ab6f7260f6e6b58e9e930fbdd5ffac3a09cc9d520c630a1fe41ec8/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e6f64656a732e737667"  style="max-width: 100%;"></a>
-
-</td>
-<td width="25%" align="center">
-<p dir="auto"><span>Express</span><br><br></p>
-<img height="64px" src="https://camo.githubusercontent.com/d31ee43326ff8fc1ceb7e92f619d28e3d005727d96056c9bafdebcac35295729/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f657870726573732e737667"  style="max-width: 100%;"></a>
-</td>
-<td width="25%" align="center">
-<p dir="auto"><span>Mongodb</span><br><br></p>
-<img height="64px" src="https://camo.githubusercontent.com/e128a7ebc1defedc5413a9c76cbbcdc489b0f89fb009e6a5d661bdbede30d3bd/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6f6e676f64622e737667"  style="max-width: 100%;"></a>
-</td>
-
+     <p dir="auto"><span>Express</span><br><br></p>
+    <img height="64px" src="https://camo.githubusercontent.com/d31ee43326ff8fc1ceb7e92f619d28e3d005727d96056c9bafdebcac35295729/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f657870726573732e737667"  style="max-width: 100%;"></a>
+     </td>
+     <td width="25%" align="center">
+     <p dir="auto"><span>Mongodb</span><br><br></p>
+   <img height="64px" src="https://camo.githubusercontent.com/e128a7ebc1defedc5413a9c76cbbcdc489b0f89fb009e6a5d661bdbede30d3bd/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6f6e676f64622e737667"  style="max-width: 100%;"></a>
+     </td>
+     <td width="25%" align="center">
+     <p dir="auto"><span>NPM</span><br><br></p>
+    <img height="64px" src="https://camo.githubusercontent.com/88203994ff6e6df8caeb1b0eb23097348b0f2a17d6799275c481a4bb1b082a40/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e706d2d69636f6e2e737667"  style="max-width: 100%;"></a>
+     </td>
      </tr>
      <tr valign="top">
      <td width="25%" align="center">
@@ -55,8 +51,8 @@
     <img height="64px" src="https://camo.githubusercontent.com/114a0bc512f4a3a808900d175b031a6dc0776a85bc6b1c5eaee3021b13581ab1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f626f6f7473747261702e737667" style="max-width: 100%;"></a>
      </td>
      <td width="25%" align="center">
-     <p dir="auto"><span>NPM</span><br><br></p>
-    <img height="64px" src="https://camo.githubusercontent.com/88203994ff6e6df8caeb1b0eb23097348b0f2a17d6799275c481a4bb1b082a40/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e706d2d69636f6e2e737667"  style="max-width: 100%;"></a>
+     <p dir="auto"><span>𝗥𝗲𝗱𝘂𝘅</span><br><br></p>
+    <img height="64px" src="https://camo.githubusercontent.com/321d4616110f60a3b946fc6c562e6b9d98a6c93d2bb0ef78fb2a85c5c6b6e009/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f72656475782e737667"  style="max-width: 100%;"></a>
      </td>
      <td width="25%" align="center">
      <p dir="auto"><span>𝗚𝗶𝘁</span><br><br></p>
