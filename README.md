@@ -44,12 +44,12 @@
      </td>
      <td width="25%" align="center">
      <p dir="auto"><span>Mongodb</span><br><br></p>
-   <img height="64px" src="https://camo.githubusercontent.com/e128a7ebc1defedc5413a9c76cbbcdc489b0f89fb009e6a5d661bdbede30d3bd/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6f6e676f64622e737667"  style="max-width: 100%;"></a>
+   <img height="64px" src="https://raw.githubusercontent.com/nadunindunil/awesome-material-ui/master/material-ui-logo.svg"  style="max-width: 100%;"></a>
      </td>
      </tr>
      <tr valign="top">
      <td width="25%" align="center">
-     <p dir="auto"><span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br></p>
+     <p dir="auto"><span>Material Ui</span><br><br></p>
     <img height="64px" src="https://camo.githubusercontent.com/114a0bc512f4a3a808900d175b031a6dc0776a85bc6b1c5eaee3021b13581ab1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f626f6f7473747261702e737667" style="max-width: 100%;"></a>
      </td>
      <td width="25%" align="center">
