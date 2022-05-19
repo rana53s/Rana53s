@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Rana Sarkar</h1>
 <h3 align="center">A passionate MERN stack developer from Agartala, India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 - I Love to solve **DSA**
 - Looking for collaboration in **Open Source** projects
 - Reach out to me on : [LinkedIn](https://www.linkedin.com/in/ranasarkar53/)
