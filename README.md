@@ -1,5 +1,6 @@
 <h1 align="center">Hey, I'm Rana Sarkar</h1>
 <h3 align="center">A passionate MERN stack developer from Agartala, India</h3>
+<h3 align="center">Working as a SDE (MT) at ADP India</h3>
 
 - 🌱 I’m currently learning **TypeScript** & **Angular**
 - I Love to solve **DSA**
