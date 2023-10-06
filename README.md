@@ -1,11 +1,9 @@
 <h1 align="center">Hey, I'm Rana Sarkar</h1>
-<h3 align="center">A passionate MERN stack developer from Agartala, India</h3>
-<h3 align="center">Working as a SDE (MT) at ADP India</h3>
+<h3 align="center">A software developer passionate about backend stacks</h3>
+<h3 align="center">Working as an application developer (MT) at ADP India</h3>
 
-- I’m currently learning **Sping Boot** & **Angular**
-- I Love to solve **DSA**
-- Looking for collaboration in **Open Source** projects
-- Reach out to me on : [LinkedIn](https://www.linkedin.com/in/ranasarkar53/)
+
+- Reach out to me: [LinkedIn](https://www.linkedin.com/in/ranasarkar53/)
 <hr>
 <h2 align="center" border="0" dir="auto"><a id="user-content-my-tech-stack" class="anchor" aria-hidden="true" href="#my-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd"></path></svg></a>My Tech Stacks</h2>
 
