@@ -3,74 +3,23 @@
 <h3 align="center">Working as an application developer (MT) at ADP India</h3>
 
 
-- Reach out to me: [LinkedIn](https://www.linkedin.com/in/ranasarkar53/)
-<hr>
-<h2 align="center" border="0" dir="auto"><a id="user-content-my-tech-stack" class="anchor" aria-hidden="true" href="#my-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd"></path></svg></a>My Tech Stacks</h2>
+# 💫 About Me:
+I belong to Tripura, <br> Graduated in Electrical Engineering from NIT Agartala in 2020.
+<br> Growing as a Full Stack Developer.
 
 
-<table align="center">
-     <tbody>
-     <tr >
-     <td  align="center">
-       <p ><span>𝗛𝗧𝗠𝗟𝟱</span><br><br></p>
-      <img height="64px" src="https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667"  style="max-width: 100%;"></a>
-     </td>
-     <td width="25%" align="center">
-     <p dir="auto"><span>𝗖𝗦𝗦𝟯</span><br><br></p>
-     <img height="64px" src="https://camo.githubusercontent.com/367dd0be4d8a115eea884c2794dd1ab8751034782a4cf9f0d0c1155fd984a7d0/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667"  style="max-width: 100%;"></a>
-     </td>
-     <td width="25%" align="center">
-     <p dir="auto"><span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br></p>
-     <img height="64px" src="https://camo.githubusercontent.com/0c6adf0b34772f192a1c98b80ca013f2d69e954738b20062a114d9bbd245aab5/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176617363726970742e737667"  style="max-width: 100%;"></a>
-     </td>
-     <td width="25%" align="center">
-     <p dir="auto"><span>𝗥𝗲𝗮𝗰𝘁</span><br><br></p>
-    <img height="64px" src="https://camo.githubusercontent.com/258e4f46e082ec3dcfa3c4a90970a3d69d992c78c977ba7e0dd47b100a66f6f2/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f72656163742e737667"  style="max-width: 100%;"></a>
-     </td>
-     </tr>
-     <tr valign="top">
-     <td width="25%" align="center">
-     <p dir="auto"><span>𝗥𝗲𝗱𝘂𝘅</span><br><br></p>
-    <img height="64px" src="https://camo.githubusercontent.com/321d4616110f60a3b946fc6c562e6b9d98a6c93d2bb0ef78fb2a85c5c6b6e009/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f72656475782e737667"  style="max-width: 100%;"></a>
-     </td>
-     <td width="25%" align="center">
-     <p dir="auto"><span>NodeJS</span><br><br></p>
-   <img height="64px" src="https://camo.githubusercontent.com/7c3ca10871ab6f7260f6e6b58e9e930fbdd5ffac3a09cc9d520c630a1fe41ec8/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e6f64656a732e737667"  style="max-width: 100%;"></a>
-     </td>
-     <td width="25%" align="center">
-     <p dir="auto"><span>Express</span><br><br></p>
-    <img height="64px" src="https://camo.githubusercontent.com/d31ee43326ff8fc1ceb7e92f619d28e3d005727d96056c9bafdebcac35295729/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f657870726573732e737667"  style="max-width: 100%;"></a>
-     </td>
-     <td width="25%" align="center">
-     <p dir="auto"><span>Mongodb</span><br><br></p>
-   <img height="64px" src="https://camo.githubusercontent.com/e128a7ebc1defedc5413a9c76cbbcdc489b0f89fb009e6a5d661bdbede30d3bd/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6f6e676f64622e737667"  style="max-width: 100%;"></a>
-     </td>
-     </tr>
-     <tr valign="top">
-     <td width="25%" align="center">
-     <p dir="auto"><span>Material Ui</span><br><br></p>
-    <img height="64px" src="https://raw.githubusercontent.com/nadunindunil/awesome-material-ui/master/material-ui-logo.svg" style="max-width: 100%;"></a>
-     </td>
-     <td width="25%" align="center">
-     <p dir="auto"><span>NPM</span><br><br></p>
-    <img height="64px" src="https://camo.githubusercontent.com/88203994ff6e6df8caeb1b0eb23097348b0f2a17d6799275c481a4bb1b082a40/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e706d2d69636f6e2e737667"  style="max-width: 100%;"></a>
-     </td>
-     <td width="25%" align="center">
-     <p dir="auto"><span>𝗚𝗶𝘁</span><br><br></p>
-    <img height="64px" src="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667" style="max-width: 100%;"></a>
-     </td>
-     <td width="25%" align="center">
-     <p dir="auto"><span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br></p>
-    <img height="64px" src="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667"  style="max-width: 100%;"></a>
-     </td>
-     </tr>
-     </tbody>
-     </table>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rana_s_ee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranasarkar53) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RanaSar53) 
 
-<hr />
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rana53s&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rana53s&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rana53s&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rana53s&show_icons=true&locale=en&layout=compact" alt="rana53s" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rana53s&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rana53s&show_icons=true&locale=en" alt="rana53s" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rana53s&" alt="rana53s" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=rana53s&icon=0&color=0)](https://visitcount.itsvg.in)
