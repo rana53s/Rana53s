@@ -4,8 +4,9 @@
 
 
 # 💫 About Me:
-I belong to Tripura, <br> Graduated in Electrical Engineering from NIT Agartala in 2020.
-<br> Growing as a Full Stack Developer.
+I belong to Tripura, <br> Graduated in Electrical Engineering from NIT Agartala in 2020,
+<br> Growing as a Full Stack Developer,
+<br> Currently digging into Docker, Kubernetes, and Node.
 
 
 ## 🌐 Socials:
