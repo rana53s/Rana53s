@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Rana Sarkar</h1>
 <h3 align="center">A software developer passionate about backend stacks</h3>
-<h3 align="center">Working as an full-stack developer (MT) at ADP India</h3>
+<h3 align="center">Working as a full-stack developer (MT) at ADP India</h3>
 
 
 # 💫 About Me:
-I am interested in Java full-stack development and Golang,
-<br> Growing as a Full Stack Developer,
+I am interested in Java full-stack development and Golang
+<br> Open to collaborate in trending tech stacks,
 <br> Currently digging into Go, Kubernetes, and Node.
 
 
