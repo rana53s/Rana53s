@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Rana Sarkar</h1>
-<h3 align="center">A software developer passionate about backend stacks</h3>
+<h3 align="center">A software developer passionate about building robust and scalable systems</h3>
 <h3 align="center">Working as a full-stack developer (MT) at ADP India</h3>
 
 
