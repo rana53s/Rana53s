@@ -6,7 +6,7 @@
 # 💫 About Me:
 I am interested in Java full-stack development and Golang
 <br> Open to collaborate in trending tech stacks,
-<br> Currently digging into Go, Kubernetes, and Node.
+<br> Currently digging into Java, SpringBoot, and Kubernetes.
 
 
 ## 🌐 Socials:
