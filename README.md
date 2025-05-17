@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/ranasarkar53"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/rana_s_ee"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://x.com/RanaSar53"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:ranasarkar53@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:rana.sarkarg3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <div align="center">
@@ -55,7 +55,7 @@
   
   <h3>🔧 Tools & IDEs</h3>
   <p>
-    <a href="#"><img src="https://skillicons.dev/icons?i=git,github,gitlab,idea,vscode,postman,linux" alt="Tools & IDEs" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=git,github,idea,vscode,linux" alt="Tools & IDEs" /></a>
     <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" /></a>
     <a href="#"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="48" height="48" alt="Jira" /></a>
   </p>
