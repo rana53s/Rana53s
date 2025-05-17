@@ -22,7 +22,7 @@
   
   <ul align="left">
     <li>🏢 Currently working as a <b>Full-Stack Developer (MT)</b> at <b>ADP India</b></li>
-    <li>💻 Passionate about Java full-stack development and Golang</li>
+    <li>💻 Passionate about Java full-stack development</li>
     <li>🌱 Currently exploring <b>Spring Boot</b>, <b>Kubernetes</b>, and <b>AWS Services</b></li>
     <li>👯 Open to collaborate on innovative projects with trending tech stacks</li>
     <li>🚀 Building robust and scalable systems</li>
