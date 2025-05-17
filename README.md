@@ -1,26 +1,114 @@
-<h1 align="center">Hey, I'm Rana Sarkar</h1>
-<h3 align="center">A software developer passionate about building robust and scalable systems</h3>
-<h3 align="center">Working as a full-stack developer (MT) at ADP India</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rana%20Sarkar&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
+</div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=0E6EFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</h1>
 
-# 💫 About Me:
-I am interested in Java full-stack development and Golang
-<br> Open to collaborate in trending tech stacks,
-<br> Currently digging into Java, SpringBoot, and Kubernetes.
+<p align="center">    
+  <a href="https://linkedin.com/in/ranasarkar53"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/rana_s_ee"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://x.com/RanaSar53"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:ranasarkar53@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
+<div align="center">
+  <details open>
+  <summary><h2>📊 About Me</h2></summary>
+  <p>
+    Cloud-centric Full-Stack Developer with 3 years of experience delivering scalable microservices and automating workflows with AWS, Java, and Node.js.
+  </p>
+  
+  <ul align="left">
+    <li>🏢 Currently working as a <b>Full-Stack Developer (MT)</b> at <b>ADP India</b></li>
+    <li>💻 Passionate about Java full-stack development and Golang</li>
+    <li>🌱 Currently exploring <b>Spring Boot</b>, <b>Kubernetes</b>, and <b>AWS Services</b></li>
+    <li>👯 Open to collaborate on innovative projects with trending tech stacks</li>
+    <li>🚀 Building robust and scalable systems</li>
+  </ul>
+  </details>
+  
+  <details open>
+  <summary><h2>🛠️ Tech Stack</h2></summary>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rana_s_ee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranasarkar53) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RanaSar53) 
+  <h3>🔤 Programming Languages</h3>
+  <p>
+    <a href="#"><img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css" alt="Programming Languages" /></a>
+  </p>
+  
+  <h3>🧩 Frameworks & Libraries</h3>
+  <p>
+    <a href="#"><img src="https://skillicons.dev/icons?i=spring,hibernate,angular,react,nextjs,express,nodejs,nestjs,tailwind" alt="Frameworks & Libraries" /></a>
+  </p>
+  
+  <h3>☁️ Cloud & DevOps</h3>
+  <p>
+    <a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins" alt="Cloud & DevOps" /></a>
+    <a href="#"><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="48" height="48" alt="Splunk" /></a>
+  </p>
+  
+  <h3>💾 Databases</h3>
+  <p>
+    <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,oracle" alt="Databases" /></a>
+  </p>
+  
+  <h3>🔧 Tools & IDEs</h3>
+  <p>
+    <a href="#"><img src="https://skillicons.dev/icons?i=git,github,gitlab,idea,vscode,postman,linux" alt="Tools & IDEs" /></a>
+    <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" /></a>
+    <a href="#"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="48" height="48" alt="Jira" /></a>
+  </p>
+  </details>
+  
+  <details open>
+  <summary><h2>📈 GitHub Stats</h2></summary>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rana53s&theme=tokyonight" />
+  </p>
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rana53s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rana53s&layout=compact&langs_count=8&theme=tokyonight"/>
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rana53s&theme=tokyonight" alt="GitHub Streak" />
+  </p>
+  </details>
+  
+  <details>
+  <summary><h2>📚 Education</h2></summary>
+  <table>
+    <tr>
+      <td>
+        <img width="70px" src="https://upload.wikimedia.org/wikipedia/en/f/fa/NIT_Agartala_Logo.png" alt="NIT Agartala">
+      </td>
+      <td>
+        <strong>National Institute of Technology Agartala</strong><br>
+        Bachelor of Technology in Electrical Engineering<br>
+        <i>July 2016 – June 2020</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img width="70px" src="https://masaischool.com/img/navbar/logo.svg" alt="Masai School">
+      </td>
+      <td>
+        <strong>Masai School</strong><br>
+        Associate Degree Program in Full-Stack Web Development<br>
+        <i>September 2021 – May 2022</i>
+      </td>
+    </tr>
+  </table>
+  </details>
+  
+  <details>
+  <summary><h2>🏆 GitHub Trophies</h2></summary>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=rana53s&theme=nord&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </p>
+  </details>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rana53s&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rana53s&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rana53s&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rana53s&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=rana53s&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</div>
